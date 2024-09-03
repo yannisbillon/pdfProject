@@ -62,4 +62,4 @@ pdf_writer.encrypt('password')
 with open('merge.pdf', 'wb') as out:
     pdf_writer.write(out)
 
-print("PDF fusionné et modifié avec succès !")
+print("PDF fusionné et modifié avec succès ")
